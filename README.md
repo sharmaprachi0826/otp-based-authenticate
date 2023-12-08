@@ -21,5 +21,5 @@ To start the backend
 - Run node index.js
 
 To start the frontend
-- Go to the root foler
+- Go to the root folder
 - Run npm start
