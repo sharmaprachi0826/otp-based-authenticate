@@ -11,7 +11,7 @@ This is a simple Node.js backend and React frontend application demonstrating OT
 
 ## Installation
 
-Clone the repo using- 
+Clone the repo using- https://github.com/sharmaprachi0826/otp-based-authenticate.git
 
 Install the dependencies
 - npm install
